@@ -294,7 +294,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #594F4F !important;
 		}
 
 	strong, b {
@@ -2211,8 +2211,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #18bfef;
-			color: #18bfef !important;
+			box-shadow: inset 0 0 0 2px #594F4F;
+			color: #594F4F !important;
 		}
 
 		input[type="submit"].primary,
@@ -2230,7 +2230,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #18bfef;
+				background-color: #594F4F;
 			}
 
 /* Form */
@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #18bfef;
+			border-color: #594F4F;
 		}
 
 	select {
@@ -2522,7 +2522,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #18bfef;
+		border-color: #594F4F;
 	}
 
 	::-webkit-input-placeholder {
@@ -2886,7 +2886,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #18bfef;
+		color: #594F4F;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -2894,7 +2894,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #18bfef;
+		box-shadow: inset 0 0 0 2px #594F4F;
 	}
 
 /* Section/Article */
@@ -3193,14 +3193,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color:#594F4F !important;
+			border-color: #594F4F;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: #594F4F;
 			}
 
 		.pagination a.active {
@@ -3320,7 +3320,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #594F4F !important;
 			}
 
 		#intro strong, #intro b {
@@ -3359,8 +3359,8 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
-				color: #18bfef !important;
+				box-shadow: inset 0 0 0 2px #594F4F;
+				color: #594F4F !important;
 			}
 
 			#intro input[type="submit"].primary,
@@ -3378,7 +3378,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #18bfef;
+					background-color: #594F4F;
 				}
 
 		#intro h1 {
@@ -3636,7 +3636,7 @@ input, select, textarea {
 	}
 
 	#nav ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #18bfef;
+		box-shadow: inset 0 0 0 2px #594F4F;
 	}
 
 	#nav input, #nav select, #nav textarea {
@@ -4088,7 +4088,7 @@ input, select, textarea {
 
 		#footer input[type="checkbox"]:focus + label:before,
 		#footer input[type="radio"]:focus + label:before {
-			border-color: #18bfef;
+			border-color: #594F4F;
 		}
 
 		#footer ::-webkit-input-placeholder {
@@ -4116,7 +4116,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #594F4F;
 		}
 
 		#footer ul.icons.alt li .icon:before {
@@ -4124,7 +4124,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #594F4F;
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
@@ -4164,14 +4164,14 @@ input, select, textarea {
 		}
 
 			#footer .pagination a:hover {
-				color: #18bfef !important;
-				border-color: #18bfef;
+				color: #594F4F !important;
+				border-color: #594F4F;
 				z-index: 1;
 			}
 
 				#footer .pagination a:hover + a,
 				#footer .pagination a:hover + span {
-					border-left-color: #18bfef;
+					border-left-color: #594F4F;
 				}
 
 			#footer .pagination a.active {
@@ -4408,7 +4408,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #594F4F !important;
 			}
 
 		#copyright strong, #copyright b {
