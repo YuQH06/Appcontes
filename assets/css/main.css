@@ -3650,7 +3650,7 @@ input, select, textarea {
 
 		#nav a:hover {
 			border-bottom-color: transparent;
-			color: #513a34 !important;
+			color: #594F4F !important;
 		}
 
 	#nav strong, #nav b {
@@ -3726,7 +3726,7 @@ input, select, textarea {
 				}
 
 					#nav ul.links li.active a:hover {
-						color: #4c4d4d !important;
+						color: #594F4F !important;
 					}
 
 	#nav ul.icons {
